@@ -1,0 +1,12 @@
+{
+  "name": "store-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:api": "cd api && yarn start",
+    "start:web": "cd client && yarn start"
+  },
+  "author": "",
+  "license": "ISC"
+}
