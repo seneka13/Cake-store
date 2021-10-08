@@ -8,5 +8,6 @@
     "start:web": "cd client && yarn start"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
